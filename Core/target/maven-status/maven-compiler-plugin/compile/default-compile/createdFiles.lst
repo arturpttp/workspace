@@ -1,0 +1,15 @@
+net\dev\art\core\libs\abstracts\AbstractCommand.class
+net\dev\art\core\libs\PluginStyle.class
+net\dev\art\core\Core.class
+net\dev\art\core\listeners\DeathListener.class
+net\dev\art\core\libs\mysql\IMysqlConnection.class
+net\dev\art\core\libs\PluginCore.class
+net\dev\art\core\libs\mysql\MysqlConnection.class
+net\dev\art\core\Test.class
+net\dev\art\core\commands\GamemodeCommand.class
+net\dev\art\core\libs\CoreStyle.class
+net\dev\art\core\libs\CoreLib.class
+net\dev\art\core\libs\API.class
+net\dev\art\core\libs\abstracts\EventListener.class
+net\dev\art\core\libs\mysql\MysqlObject.class
+net\dev\art\core\listeners\JoinListener.class

@@ -1,0 +1,4 @@
+name: Core
+version: 1.0
+author: ArturDev
+main: net.dev.art.core.Core
